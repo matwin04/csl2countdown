@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0c6e38d2a68ed81a",
@@ -149,7 +148,8 @@
   },
   "active": "cefcf3bc595ee3c6",
   "lastOpenFiles": [
-    "README.md",
-    "index.md"
+    "Untitled.canvas",
+    "index.md",
+    "README.md"
   ]
 }
